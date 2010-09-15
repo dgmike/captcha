@@ -1,0 +1,3 @@
+RewriteEngine On
+
+RewriteRule [a-z0-9].jpg$ index.php
